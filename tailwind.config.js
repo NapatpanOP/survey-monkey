@@ -7,7 +7,9 @@ export default {
       'primary-color': 'rgb(249, 190, 0)',
       'secondary-color': 'rgb(34, 79, 60)',
       'midnight': 'rgb(30, 33, 36)',
-      'gray': 'rgb(115, 116, 122)'
+      'gray': 'rgb(115, 116, 122)',
+      'green': 'rgb(202, 232, 220)',
+      'white': '#fff'
     },
   },
   plugins: [],
