@@ -9,7 +9,8 @@ export default {
       'midnight': 'rgb(30, 33, 36)',
       'gray': 'rgb(115, 116, 122)',
       'green': 'rgb(202, 232, 220)',
-      'white': '#fff'
+      'white': '#fff',
+      'blue': 'rgb(0, 127, 170)'
     },
   },
   plugins: [],
