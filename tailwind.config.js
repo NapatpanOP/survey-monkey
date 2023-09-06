@@ -10,7 +10,8 @@ export default {
       'gray': 'rgb(115, 116, 122)',
       'green': 'rgb(202, 232, 220)',
       'white': '#fff',
-      'blue': 'rgb(0, 127, 170)'
+      'blue': 'rgb(0, 127, 170)',
+      'white-gray': '#f7f7f7'
     },
   },
   plugins: [],
